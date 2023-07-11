@@ -223,8 +223,8 @@ body {
 /* mail-container */
 .mail-container {
     background-image: url('./Asset/rectangle\ 9.png');
+    width: 1440px;
     height: 449px;
-    width: 75%;
     margin: auto;
     background-repeat: no-repeat;
     margin-top: 100px;
@@ -315,7 +315,8 @@ body {
     font-size: 18px;
     line-height: 30px;
 }
-.copyright{
+
+.copyright {
     padding-top: 32px;
     color: #707070;
     font-size: 16px;
