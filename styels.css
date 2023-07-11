@@ -397,17 +397,21 @@ body {
 .flowers-img-p {
     color: #757575;
 }
-.extra-bonus-section{
+
+.extra-bonus-section {
     display: flex;
     justify-content: center;
     margin-top: 60px;
 }
-.discount-member{
+
+.discount-member {
     border-left: 2px solid gray;
-    padding: 0px 25px ;
-    color: #272727;;
+    padding: 0px 25px;
+    color: #272727;
+    ;
 }
-.twenty-discount{
+
+.twenty-discount {
     display: flex;
     margin-right: 80px;
 }
