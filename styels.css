@@ -28,7 +28,7 @@ body {
 }
 
 .headding-p-text {
-    color: #4C351E;
+    color: #8A8586;
     font-size: 18px;
     font-style: normal;
     line-height: 30px;
@@ -128,6 +128,30 @@ body {
 
 }
 
+.three-images-p {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: -30px;
+    text-decoration-line: underline;
+}
+.three-images-p1{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 65px;
+    text-decoration-line: underline;
+}
+.three-images-p3{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20px;
+    text-decoration-line: underline;
+}
 /* no-point-section */
 .no-point-section {
     display: flex;
@@ -138,7 +162,7 @@ body {
     margin: auto;
     align-items: center;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 150px;
     border-radius: 8px;
 
 }
@@ -226,6 +250,7 @@ body {
     width: 1440px;
     height: 449px;
     margin: auto;
+    border-radius: 10px;
     background-repeat: no-repeat;
     margin-top: 100px;
 
@@ -311,7 +336,7 @@ body {
 
 .flowers-shop-p {
     padding-top: 24px;
-    color: rgba(255, 255, 255, 0.90);
+    color: #E7E7E7;
     font-size: 18px;
     line-height: 30px;
 }
